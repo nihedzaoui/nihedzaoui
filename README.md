@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F9C9D6&height=180&section=header&text=Nihed%20Zaoui&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Engineering%20Student&descAlignY=58&descSize=18" width="100%"/>
+# 🎀 Nihed Zaoui
 
-<br/>
+### AI & Machine Learning Engineering Student
 
 <img src="https://img.shields.io/badge/AI%20%26%20ML%20Engineering%20Student-ENSIT-F9C9D6?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Applied%20Mathematics%20%26%20Modeling-3rd%20Year-F9C9D6?style=for-the-badge" />
@@ -156,12 +156,15 @@ Machine learning solution that detects human falls using accelerometer and gyros
 <div align="center">
 
 <a href="https://github.com/nihedzaoui"><img src="https://img.shields.io/badge/GitHub-F9C9D6?style=for-the-badge&logo=github&logoColor=4a4a4a" /></a>
-<a href="LINKEDIN_URL_HERE"><img src="https://img.shields.io/badge/LinkedIn-F9C9D6?style=for-the-badge&logo=linkedin&logoColor=4a4a4a" /></a>
-<a href="PORTFOLIO_URL_HERE"><img src="https://img.shields.io/badge/Portfolio-F9C9D6?style=for-the-badge&logo=googlechrome&logoColor=4a4a4a" /></a>
-<a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-F9C9D6?style=for-the-badge&logo=gmail&logoColor=4a4a4a" /></a>
+<a href="https://www.linkedin.com/in/nihed-zaoui-466447337/"><img src="https://img.shields.io/badge/LinkedIn-F9C9D6?style=for-the-badge&logo=linkedin&logoColor=4a4a4a" /></a>
+<a href="mailto:nihedzaoui55@gmail.com"><img src="https://img.shields.io/badge/Email-F9C9D6?style=for-the-badge&logo=gmail&logoColor=4a4a4a" /></a>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F9C9D6&height=100&section=footer" width="100%"/>
+<div align="center">
+
+🎀
+
+</div>
